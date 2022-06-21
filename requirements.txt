@@ -4,6 +4,6 @@ dash-html-components==1.0.0
 dash-renderer==1.0.0
 dash.ly==0.17.3
 forex-python==1.5
-numpy==1.16.2
+numpy==1.22.0
 plotly==3.7.1
 
