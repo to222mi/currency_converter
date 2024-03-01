@@ -1,6 +1,6 @@
 dash==1.1.1
 dash-core-components==1.0.0
-dash-html-components==1.0.0
+dash-html-components==2.0.0
 dash-renderer==1.0.0
 dash.ly==0.17.3
 forex-python==1.5
